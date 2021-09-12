@@ -49,7 +49,7 @@ THEN I find a concise, descriptive title
 
 2. Added media query to support mobile and tablet views with responsive design.
 
-3. Added SCSS-Compile node module to support writing SCSS.
+3. Leveraged SCSS to for simplicity & consistency in CSS file.
 
 4. Organized SCSS/CSS file and added comments for easy browsing
 
