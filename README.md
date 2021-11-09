@@ -59,6 +59,6 @@ THEN I find a concise, descriptive title
 
 ## Web Location
 
-[https://bravotango.github.io/Horiseon/]
+[https://bravotango.github.io/Horiseon-Code-Refactor/](https://bravotango.github.io/Horiseon-Code-Refactor/)
 
 ---
